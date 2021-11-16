@@ -62,5 +62,5 @@ Step 6: Go to your browser and type localhost/uni/index.php
 For ADMIN UserName = min
 password= min
 
-
+For more projects and programming tutorials, you can visit my website : https://volunteer-tech.com  
 
